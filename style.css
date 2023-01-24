@@ -2,9 +2,9 @@
     .attribution a { color: hsl(228, 45%, 44%); }
     body{
       background-color: rgb(214, 226, 240);
-      font-family: Outfit, sans-serif;
-      padding: 3rem;
-      
+      font-family: Outfit, sans-serif;   
+      margin: 0;
+      padding: 0;   
     }
     main{
       display: flex;
@@ -25,7 +25,7 @@
       text-align: center;
     }
     img{
-      width: 290px;
+      width: 280px;
       border-radius: 10px;
       margin: 1em;
     }
